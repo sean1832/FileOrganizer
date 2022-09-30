@@ -38,10 +38,12 @@ A simple console application to organize files by their extensions.
 	- `FileOrganizer.exe C:\Users\username\Downloads --pack`
 - Restore packed file
 	- `FileOrganizer.exe C:\Users\username\Downloads --unpack`
+## Bugs
+- 
 ## Demo use (command prompt)
 ![demo](pictures/Comand_Demo.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NDQ1NjcsLTEyNzA1OTAxMjksMTA4Nj
-Y0MDgyNSwxNjgzNzQ5NzI3LDU0Njc1OTY1MCwtOTk1ODE0Njk3
-LDExODk0OTc0ODNdfQ==
+eyJoaXN0b3J5IjpbNzQ5MjI3MjQ3LC0xMjcwNTkwMTI5LDEwOD
+Y2NDA4MjUsMTY4Mzc0OTcyNyw1NDY3NTk2NTAsLTk5NTgxNDY5
+NywxMTg5NDk3NDgzXX0=
 -->

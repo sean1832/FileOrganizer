@@ -10,6 +10,7 @@ namespace FileOrganizer
     public class Utility
     {
         #region public functions
+
         public static Dictionary<string, string> GetTreeCollection(string configPath)
         {
             Dictionary<string, string> treeCollection = new Dictionary<string, string>();
@@ -23,13 +24,41 @@ namespace FileOrganizer
 
         public static string OtherFolder = @"\Other";
 
+        public static string GetNewSubDirectory(string extension)
+        {
+            string subDir;
+            Dictionary<string, string> treeCollection = Utility.GetTreeCollection("TreeConfig.json");
+
+            if (!treeCollection.ContainsKey(extension))
+                subDir = Utility.OtherFolder;
+            else
+                subDir = treeCollection[extension];
+            return subDir;
+        }
+
+        public static string GetUniquePath(string targetPath)
+        {
+            int count = 1;
+
+            string extension = Path.GetExtension(targetPath);
+            string targetDir = Path.GetDirectoryName(targetPath);
+            string outputPath = targetPath;
+            string existingFileName = Path.GetFileNameWithoutExtension(targetPath);
+
+            while (File.Exists(outputPath))
+            {
+                string tempFileName = $"{existingFileName} ({count++})";
+                outputPath = $"{targetDir}/{tempFileName}{extension}";
+            }
+            return outputPath;
+        }
 
         #endregion
 
 
         #region private functions
 
-        public static List<TreePath> GetTree(string path)
+        private static List<TreePath> GetTree(string path)
         {
             CreateFileIfNotExist(path);
 

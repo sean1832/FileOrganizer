@@ -102,6 +102,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Src\Action.cs" />
     <Compile Include="Src\TreePath.cs" />
     <Compile Include="Src\MainProgram.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

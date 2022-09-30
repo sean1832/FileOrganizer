@@ -2,7 +2,7 @@
 
 :computer: A simple console application to organize files by their extensions
 (This is my first repository on github, enjoy! :blush: )
-## How to setup and run
+## How to setup
 1. [**Download all files for application**](https://github.com/sean1832/Organizer/tree/master/FileOrganizer/deploy)
 2. **Extract** files into local directory
 
@@ -39,7 +39,7 @@
 ## Demo use (command prompt)
 ![demo](pictures/Comand_Demo.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3Nzc5NjY4MCwtMTI3MDU5MDEyOSwxMD
+eyJoaXN0b3J5IjpbLTU4MTk3NTUxNCwtMTI3MDU5MDEyOSwxMD
 g2NjQwODI1LDE2ODM3NDk3MjcsNTQ2NzU5NjUwLC05OTU4MTQ2
 OTcsMTE4OTQ5NzQ4M119
 -->

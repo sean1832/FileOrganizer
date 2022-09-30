@@ -1,7 +1,7 @@
 # File Organizer
 
 :computer: A simple console application to organize files by their extensions
-(This is my first repository on github, enjoy :blush: )
+(This is my first repository on github, enjoy! :blush: )
 ## How to use
 1. [**Download all files for application**](https://github.com/sean1832/Organizer/tree/master/FileOrganizer/deploy)
 2. **Extract** files into local directory
@@ -14,7 +14,7 @@
 4. Enter operation `--pack` or `--unpack`
 
 ### Task Scheduler
-1. 
+1. Open task scheduler
 ## Example command
 - Pack and clean file in directory `C:\Users\username\Downloads`
 	- `FileOrganizer.exe C:\Users\username\Downloads --pack`
@@ -23,7 +23,7 @@
 ## Demo use (command prompt)
 ![demo](pictures/Comand_Demo.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMDg1NDU1NSwtMTI3MDU5MDEyOSwxMD
-g2NjQwODI1LDE2ODM3NDk3MjcsNTQ2NzU5NjUwLC05OTU4MTQ2
-OTcsMTE4OTQ5NzQ4M119
+eyJoaXN0b3J5IjpbNTkwNTQ2OTIwLC0xMjcwNTkwMTI5LDEwOD
+Y2NDA4MjUsMTY4Mzc0OTcyNyw1NDY3NTk2NTAsLTk5NTgxNDY5
+NywxMTg5NDk3NDgzXX0=
 -->

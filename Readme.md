@@ -1,7 +1,7 @@
 # File Organizer
 
-A simple console application to organize files by their extensions
-(This is my )
+:computer: A simple console application to organize files by their extensions
+(This is my first repository on github, enjoy :blush: )
 ## How to use
 1. [**Download all files for application**](https://github.com/sean1832/Organizer/tree/master/FileOrganizer/deploy)
 2. **Extract** files into local directory
@@ -23,7 +23,7 @@ A simple console application to organize files by their extensions
 ## Demo use (command prompt)
 ![demo](pictures/Comand_Demo.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MjY2MzI5NywtMTI3MDU5MDEyOSwxMD
+eyJoaXN0b3J5IjpbMTEwMDg1NDU1NSwtMTI3MDU5MDEyOSwxMD
 g2NjQwODI1LDE2ODM3NDk3MjcsNTQ2NzU5NjUwLC05OTU4MTQ2
 OTcsMTE4OTQ5NzQ4M119
 -->

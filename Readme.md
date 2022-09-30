@@ -14,9 +14,10 @@ A simple console application to organize files by their extensions
 ## Example command
 - Pack and clean file in directory `C:\Users\username\Downloads`
 	- `FileOrganizer.exe C:\Users\username\Downloads --pack`
-- 
+- Restore packed file
+	- `FileOrganizer.exe C:\Users\username\Downloads --unpack`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NjE2NDkwMSwxMDg2NjQwODI1LDE2OD
-M3NDk3MjcsNTQ2NzU5NjUwLC05OTU4MTQ2OTcsMTE4OTQ5NzQ4
-M119
+eyJoaXN0b3J5IjpbLTEyNzA1OTAxMjksMTA4NjY0MDgyNSwxNj
+gzNzQ5NzI3LDU0Njc1OTY1MCwtOTk1ODE0Njk3LDExODk0OTc0
+ODNdfQ==
 -->

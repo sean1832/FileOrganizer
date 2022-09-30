@@ -1,5 +1,9 @@
 # File Organizer
-A simple program to organize file 
+
+A simple console application to organize files by their extensions
+
+## How to use
+1. Download application
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjczODk1MTg1XX0=
+eyJoaXN0b3J5IjpbLTE1Mjk5OTMzMzNdfQ==
 -->

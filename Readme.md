@@ -1,6 +1,6 @@
 # File Organizer
 
-:computer: A simple console application to organize files by their extensions.
+:robot: A simple console application to organize files by their extensions.
 (This is my first repository on github, enjoy! :blush: )
 ## How to setup
 1. [**Download all files for application**](https://github.com/sean1832/Organizer/tree/master/FileOrganizer/deploy).
@@ -41,7 +41,7 @@
 ## Demo use (command prompt)
 ![demo](pictures/Comand_Demo.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjk2MjkwLC0xMjcwNTkwMTI5LDEwOD
+eyJoaXN0b3J5IjpbMTM2NTc5NzI5LC0xMjcwNTkwMTI5LDEwOD
 Y2NDA4MjUsMTY4Mzc0OTcyNyw1NDY3NTk2NTAsLTk5NTgxNDY5
 NywxMTg5NDk3NDgzXX0=
 -->

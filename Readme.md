@@ -31,7 +31,7 @@
 	- `--unpack` move all file within the subfolders into root directory.
 
 ## Configure directory tree structure
-- Open [TreeConfig.json](FileOrganizer/deploy/TreeConfig.json)
+- Open [TreeConfig.json](https://github.com/sean1832/Organizer/tree/master/FileOrganizer/deploy)
 
 ## Example command
 - Pack and clean file in directory `C:\Users\username\Downloads`
@@ -41,7 +41,7 @@
 ## Demo use (command prompt)
 ![demo](pictures/Comand_Demo.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTA4MTMzOCwtMTI3MDU5MDEyOSwxMD
-g2NjQwODI1LDE2ODM3NDk3MjcsNTQ2NzU5NjUwLC05OTU4MTQ2
-OTcsMTE4OTQ5NzQ4M119
+eyJoaXN0b3J5IjpbLTExMDkxOTgwMzEsLTEyNzA1OTAxMjksMT
+A4NjY0MDgyNSwxNjgzNzQ5NzI3LDU0Njc1OTY1MCwtOTk1ODE0
+Njk3LDExODk0OTc0ODNdfQ==
 -->

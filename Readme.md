@@ -11,8 +11,10 @@ A simple console application to organize files by their extensions
 6. Enter operation `--pack` or `--unpack`
 ![demo](pictures/open_cmd.gif)
 
+## Example command
+- Clean file in 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODY3OTAyNDQsMTA4NjY0MDgyNSwxNj
-gzNzQ5NzI3LDU0Njc1OTY1MCwtOTk1ODE0Njk3LDExODk0OTc0
-ODNdfQ==
+eyJoaXN0b3J5IjpbLTEzOTA5NTcxMCwxMDg2NjQwODI1LDE2OD
+M3NDk3MjcsNTQ2NzU5NjUwLC05OTU4MTQ2OTcsMTE4OTQ5NzQ4
+M119
 -->

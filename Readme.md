@@ -1,7 +1,7 @@
-# File Organizer
+# :floppy_disk:File Organizer
 
-:floppy_disk: A simple console application to organize files by their extensions.
-(This is my first repository on github, enjoy! :blush: )
+A simple console application to organize files by their extensions.
+(This is my first repository on github, enjoy!:robot:  :blush: )
 ## How to setup
 1. [**:cd:Download all files for application**](https://github.com/sean1832/Organizer/tree/master/FileOrganizer/deploy).
 2. **Extract** files into local directory.
@@ -40,7 +40,7 @@
 ## Demo use (command prompt)
 ![demo](pictures/Comand_Demo.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTczNzAxMjEsLTEyNzA1OTAxMjksMT
-A4NjY0MDgyNSwxNjgzNzQ5NzI3LDU0Njc1OTY1MCwtOTk1ODE0
-Njk3LDExODk0OTc0ODNdfQ==
+eyJoaXN0b3J5IjpbMTAxNjUyODg5MSwtMTI3MDU5MDEyOSwxMD
+g2NjQwODI1LDE2ODM3NDk3MjcsNTQ2NzU5NjUwLC05OTU4MTQ2
+OTcsMTE4OTQ5NzQ4M119
 -->

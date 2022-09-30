@@ -21,7 +21,7 @@ namespace FileOrganizer
 
             #endregion
 
-            
+            #region main Logic
             string path = args.FirstOrDefault();
             string cmd = null;
             if (args.Length == 2)
@@ -55,7 +55,7 @@ namespace FileOrganizer
                 MessageBox.Show("Error: No argument detected!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 Environment.Exit(0);
             }
-            
+            #endregion
 
             #region Local Functions
 
@@ -126,10 +126,10 @@ namespace FileOrganizer
             string GetNewSubDirectory(string extension)
             {
                 string subDir;
-                Dictionary<string, string> treeCollection = PathLib.GetTreeCollection("TreeConfig.json");
+                Dictionary<string, string> treeCollection = Utility.GetTreeCollection("TreeConfig.json");
 
                 if (!treeCollection.ContainsKey(extension)) 
-                    subDir = PathLib.OtherFolder;
+                    subDir = Utility.OtherFolder;
                 else 
                     subDir = treeCollection[extension];
                 return subDir;

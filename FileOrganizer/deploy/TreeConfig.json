@@ -510,9 +510,5 @@
   {
     "Extension": ".odp",
     "Path": "Visual/Presentation/OpenOffice Impress"
-  },
-  {
-    "Extension": ".abc",
-    "Path": "exampleFolder"
   }
 ]

@@ -9,7 +9,26 @@ namespace FileOrganizer
 {
     public class Utility
     {
-        
+        #region public functions
+        public static Dictionary<string, string> GetTreeCollection(string configPath)
+        {
+            Dictionary<string, string> treeCollection = new Dictionary<string, string>();
+            List<TreePath> tree = GetTree(configPath);
+            foreach (var file in tree)
+            {
+                treeCollection.Add(file.Extension, file.Path);
+            }
+            return treeCollection;
+        }
+
+        public static string OtherFolder = @"\Other";
+
+
+        #endregion
+
+
+        #region private functions
+
         public static List<TreePath> GetTree(string path)
         {
             CreateFileIfNotExist(path);
@@ -64,6 +83,9 @@ namespace FileOrganizer
             var content = JsonConvert.SerializeObject(exampleContent, Formatting.Indented);
             return content;
         }
+
+        #endregion
+
 
     }
 }

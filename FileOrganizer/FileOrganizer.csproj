@@ -104,7 +104,6 @@
   <ItemGroup>
     <Compile Include="Src\TreePath.cs" />
     <Compile Include="Src\MainProgram.cs" />
-    <Compile Include="Src\PathLib.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Src\Utility.cs" />
   </ItemGroup>

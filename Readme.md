@@ -1,19 +1,19 @@
 # File Organizer
 
-:robot: A simple console application to organize files by their extensions.
+:computer: A simple console application to organize files by their extensions.
 (This is my first repository on github, enjoy! :blush: )
 ## How to setup
-1. [**Download all files for application**](https://github.com/sean1832/Organizer/tree/master/FileOrganizer/deploy).
+1. [**:computer:Download all files for application**](https://github.com/sean1832/Organizer/tree/master/FileOrganizer/deploy).
 2. **Extract** files into local directory.
 
-### Command Prompt
+### Command Prompt 
 
 1. Open **cmd** in **installed directory**.
 2. Initiate application `FileOrganizer.exe`.
 3. Enter directory path to clean (eg. `C:\path..."` ).
 4. Enter operation `--pack` or `--unpack`.
 
-### Task Scheduler
+### Task Scheduler:alarm_clock:
 1. Open **task scheduler**.
 2. Create a basic task.
 3. Set desier trigger time.
@@ -41,7 +41,7 @@
 ## Demo use (command prompt)
 ![demo](pictures/Comand_Demo.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NTc5NzI5LC0xMjcwNTkwMTI5LDEwOD
-Y2NDA4MjUsMTY4Mzc0OTcyNyw1NDY3NTk2NTAsLTk5NTgxNDY5
-NywxMTg5NDk3NDgzXX0=
+eyJoaXN0b3J5IjpbLTM4OTMxMzg5OSwtMTI3MDU5MDEyOSwxMD
+g2NjQwODI1LDE2ODM3NDk3MjcsNTQ2NzU5NjUwLC05OTU4MTQ2
+OTcsMTE4OTQ5NzQ4M119
 -->

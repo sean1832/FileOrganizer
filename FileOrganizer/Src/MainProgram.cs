@@ -34,7 +34,7 @@ namespace FileOrganizer
             {
                 if (Directory.Exists(path))
                 {
-                    Operation(cmd, path);
+                    Action.Operation(cmd, path);
                 }
                 else
                 {
@@ -55,32 +55,7 @@ namespace FileOrganizer
                 MessageBox.Show("Error: No argument detected!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 Environment.Exit(0);
             }
-
             #endregion
-
-
-            #region Local Functions
-
-            void Operation(string cmdVal, string outputPath)
-            {
-                switch (cmdVal)
-                {
-                    case "--unpack":
-                        Action.UnpackFile(outputPath);
-                        Console.WriteLine("unpacked");
-                        break;
-                    case "--pack":
-                        Action.PackFile(outputPath);
-                        Console.WriteLine("packed");
-                        break;
-                    default:
-                        MessageBox.Show("Error: operation argument is not entered!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                        Environment.Exit(0);
-                        break;
-                }
-            }
-            #endregion
-            
         }
     }
 }

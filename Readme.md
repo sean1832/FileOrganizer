@@ -15,6 +15,8 @@
 
 ### Task Scheduler
 1. Open task scheduler
+2. Create Basic Task
+3. Set 
 ## Example command
 - Pack and clean file in directory `C:\Users\username\Downloads`
 	- `FileOrganizer.exe C:\Users\username\Downloads --pack`
@@ -23,7 +25,7 @@
 ## Demo use (command prompt)
 ![demo](pictures/Comand_Demo.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkwNTQ2OTIwLC0xMjcwNTkwMTI5LDEwOD
+eyJoaXN0b3J5IjpbNzgyNzI2NzA4LC0xMjcwNTkwMTI5LDEwOD
 Y2NDA4MjUsMTY4Mzc0OTcyNyw1NDY3NTk2NTAsLTk5NTgxNDY5
 NywxMTg5NDk3NDgzXX0=
 -->

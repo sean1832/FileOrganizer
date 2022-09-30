@@ -2,7 +2,7 @@
 
 :computer: A simple console application to organize files by their extensions
 (This is my first repository on github, enjoy! :blush: )
-## How to setup
+## How to setup and run
 1. [**Download all files for application**](https://github.com/sean1832/Organizer/tree/master/FileOrganizer/deploy)
 2. **Extract** files into local directory
 
@@ -21,6 +21,11 @@
 5. Click "Browse" and navigate to local installed directory. Select "FileOrganizer.exe".
 6. Under "Add arguments (optional)" enter `<path> --<operation>`, e.g. `C:\Users\username\Downloads --pack`
 7. Under "Start in (optional)" enter installed directory, e.g. `E:\Software\installed folder`
+8. Finish
+
+## Commands
+- `enter code here`
+
 
 ## Example command
 - Pack and clean file in directory `C:\Users\username\Downloads`
@@ -30,7 +35,7 @@
 ## Demo use (command prompt)
 ![demo](pictures/Comand_Demo.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjk0MDMxMjUsLTEyNzA1OTAxMjksMT
-A4NjY0MDgyNSwxNjgzNzQ5NzI3LDU0Njc1OTY1MCwtOTk1ODE0
-Njk3LDExODk0OTc0ODNdfQ==
+eyJoaXN0b3J5IjpbNTgzMTc5OTEyLC0xMjcwNTkwMTI5LDEwOD
+Y2NDA4MjUsMTY4Mzc0OTcyNyw1NDY3NTk2NTAsLTk5NTgxNDY5
+NywxMTg5NDk3NDgzXX0=
 -->

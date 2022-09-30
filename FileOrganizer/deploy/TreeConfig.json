@@ -1,0 +1,518 @@
+[
+  {
+    "Extension": ".txt",
+    "Path": "Document/Text Document/Plain Text"
+  },
+  {
+    "Extension": ".doc",
+    "Path": "Document/Text Document/Word"
+  },
+  {
+    "Extension": ".docx",
+    "Path": "Document/Text Document/Word"
+  },
+  {
+    "Extension": ".pdf",
+    "Path": "Document/Text Document/PDF"
+  },
+  {
+    "Extension": ".rtf",
+    "Path": "Document/Text Document/Rich Text"
+  },
+  {
+    "Extension": ".odt",
+    "Path": "Document/Text Document/OpenOffice document"
+  },
+  {
+    "Extension": ".tex",
+    "Path": "Document/Text Document/Latex"
+  },
+  {
+    "Extension": ".wpd",
+    "Path": "Document/Text Document/WordPerfect"
+  },
+  {
+    "Extension": ".ods",
+    "Path": "Document/SpreadSheet Document/OpenOffice SpreadSheet"
+  },
+  {
+    "Extension": ".xls",
+    "Path": "Document/SpreadSheet Document/Excel/Excel SpreadSheet"
+  },
+  {
+    "Extension": ".xlsx",
+    "Path": "Document/SpreadSheet Document/Excel/Excel SpreadSheet"
+  },
+  {
+    "Extension": ".xlsm",
+    "Path": "Document/SpreadSheet Document/Excel/Excel Macros"
+  },
+  {
+    "Extension": ".py",
+    "Path": "Programming/Python"
+  },
+  {
+    "Extension": ".c",
+    "Path": "Programming/C & C++"
+  },
+  {
+    "Extension": ".cpp",
+    "Path": "Programming/C & C++"
+  },
+  {
+    "Extension": ".class",
+    "Path": "Programming/Java"
+  },
+  {
+    "Extension": ".java",
+    "Path": "Programming/Java"
+  },
+  {
+    "Extension": ".cs",
+    "Path": "Programming/CSharp"
+  },
+  {
+    "Extension": ".sh",
+    "Path": "Programming/Bash"
+  },
+  {
+    "Extension": ".vb",
+    "Path": "Programming/VisualBasic"
+  },
+  {
+    "Extension": ".bak",
+    "Path": "System/Core Files/bak"
+  },
+  {
+    "Extension": ".cfg",
+    "Path": "System/Core Files/cfg"
+  },
+  {
+    "Extension": ".dll",
+    "Path": "System/Core Files/dll"
+  },
+  {
+    "Extension": ".dmp",
+    "Path": "System/Core Files/dmp"
+  },
+  {
+    "Extension": ".ico",
+    "Path": "System/Core Files/Icon"
+  },
+  {
+    "Extension": ".tmp",
+    "Path": "System/Core Files/tmp"
+  },
+  {
+    "Extension": ".sys",
+    "Path": "System/Core Files/sys"
+  },
+  {
+    "Extension": ".exe",
+    "Path": "System/Executabe/exe"
+  },
+  {
+    "Extension": ".jar",
+    "Path": "System/Executabe/jar"
+  },
+  {
+    "Extension": ".apk",
+    "Path": "System/Executabe/apk"
+  },
+  {
+    "Extension": ".msi",
+    "Path": "System/Executabe/msi"
+  },
+  {
+    "Extension": ".com",
+    "Path": "System/Executabe/com"
+  },
+  {
+    "Extension": ".fnt",
+    "Path": "System/Font"
+  },
+  {
+    "Extension": ".fon",
+    "Path": "System/Font"
+  },
+  {
+    "Extension": ".otf",
+    "Path": "System/Font"
+  },
+  {
+    "Extension": ".ttf",
+    "Path": "System/Font"
+  },
+  {
+    "Extension": ".zip",
+    "Path": "Data/Compressed Data/zip"
+  },
+  {
+    "Extension": ".7z",
+    "Path": "Data/Compressed Data/7z"
+  },
+  {
+    "Extension": ".rar",
+    "Path": "Data/Compressed Data/rar"
+  },
+  {
+    "Extension": ".pkg",
+    "Path": "Data/Compressed Data/pkg"
+  },
+  {
+    "Extension": ".unitypackage",
+    "Path": "Data/Compressed Data/Special Package/UnityPackage"
+  },
+  {
+    "Extension": ".html",
+    "Path": "Data/Internet Data/html"
+  },
+  {
+    "Extension": ".htm",
+    "Path": "Data/Internet Data/html"
+  },
+  {
+    "Extension": ".jsp",
+    "Path": "Data/Internet Data/jsp"
+  },
+  {
+    "Extension": ".xhtml",
+    "Path": "Data/Internet Data/xhtml"
+  },
+  {
+    "Extension": ".part",
+    "Path": "Data/Internet Data/partially downloaded file"
+  },
+  {
+    "Extension": ".oft",
+    "Path": "Data/Email/Outlook"
+  },
+  {
+    "Extension": ".ost",
+    "Path": "Data/Email/Outlook"
+  },
+  {
+    "Extension": ".pst",
+    "Path": "Data/Email/Outlook"
+  },
+  {
+    "Extension": ".eml",
+    "Path": "Data/Email/Gmail"
+  },
+  {
+    "Extension": ".vcf",
+    "Path": "Data/Email/Email Contact"
+  },
+  {
+    "Extension": ".xml",
+    "Path": "Data/Raw Data/Common Data/xml"
+  },
+  {
+    "Extension": ".csv",
+    "Path": "Data/Raw Data/Common Data/csv"
+  },
+  {
+    "Extension": ".log",
+    "Path": "Data/Raw Data/Common Data/log"
+  },
+  {
+    "Extension": ".dat",
+    "Path": "Data/Raw Data/Common Data/dat"
+  },
+  {
+    "Extension": ".sav",
+    "Path": "Data/Raw Data/Common Data/sav"
+  },
+  {
+    "Extension": ".bin",
+    "Path": "Data/Raw Data/Common Data/bin"
+  },
+  {
+    "Extension": ".json",
+    "Path": "Data/Raw Data/Common Data/json"
+  },
+  {
+    "Extension": ".yaml",
+    "Path": "Data/Raw Data/Common Data/yaml"
+  },
+  {
+    "Extension": ".sql",
+    "Path": "Data/Raw Data/Database/sql"
+  },
+  {
+    "Extension": ".db",
+    "Path": "Data/Raw Data/Database/db"
+  },
+  {
+    "Extension": ".dbf",
+    "Path": "Data/Raw Data/Database/dbf"
+  },
+  {
+    "Extension": ".f3d",
+    "Path": "Visual/3D Image/Dependent/CAD/Autodesk Fusion360"
+  },
+  {
+    "Extension": ".ipt",
+    "Path": "Visual/3D Image/Dependent/CAD/Autodesk Inventor"
+  },
+  {
+    "Extension": ".sldprt",
+    "Path": "Visual/3D Image/Dependent/CAD/Autodesk SolidWorks"
+  },
+  {
+    "Extension": ".rvt",
+    "Path": "Visual/3D Image/Dependent/CAD/Autodesk Revit"
+  },
+  {
+    "Extension": ".dwg",
+    "Path": "Visual/3D Image/Dependent/CAD/Autodesk AutoCAD"
+  },
+  {
+    "Extension": ".dxf",
+    "Path": "Visual/3D Image/Dependent/CAD/Autodesk AutoCAD"
+  },
+  {
+    "Extension": ".skp",
+    "Path": "Visual/3D Image/Dependent/CAD/sketchup"
+  },
+  {
+    "Extension": ".3dm",
+    "Path": "Visual/3D Image/Dependent/CAD/Rhino/Rhino3D"
+  },
+  {
+    "Extension": ".3dmbak",
+    "Path": "Visual/3D Image/Dependent/CAD/Rhino/Rhino3D"
+  },
+  {
+    "Extension": ".gh",
+    "Path": "Visual/3D Image/Dependent/CAD/Rhino/Grasshopper"
+  },
+  {
+    "Extension": ".ghx",
+    "Path": "Visual/3D Image/Dependent/CAD/Rhino/Grasshopper"
+  },
+  {
+    "Extension": ".blend",
+    "Path": "Visual/3D Image/Dependent/Modeling ProjectFile/Blender"
+  },
+  {
+    "Extension": ".max",
+    "Path": "Visual/3D Image/Dependent/Modeling ProjectFile/3ds Max"
+  },
+  {
+    "Extension": ".mb",
+    "Path": "Visual/3D Image/Dependent/Modeling ProjectFile/Maya"
+  },
+  {
+    "Extension": ".ma",
+    "Path": "Visual/3D Image/Dependent/Modeling ProjectFile/Maya"
+  },
+  {
+    "Extension": ".hipnc",
+    "Path": "Visual/3D Image/Dependent/Modeling ProjectFile/Houdini"
+  },
+  {
+    "Extension": ".hip",
+    "Path": "Visual/3D Image/Dependent/Modeling ProjectFile/Houdini"
+  },
+  {
+    "Extension": ".zpr",
+    "Path": "Visual/3D Image/Dependent/Modeling ProjectFile/zBrush"
+  },
+  {
+    "Extension": ".c4d",
+    "Path": "Visual/3D Image/Dependent/Modeling ProjectFile/C4D"
+  },
+  {
+    "Extension": ".duf",
+    "Path": "Visual/3D Image/Dependent/Modeling ProjectFile/DAZ/UserFile"
+  },
+  {
+    "Extension": ".dsv",
+    "Path": "Visual/3D Image/Dependent/Modeling ProjectFile/DAZ/UV Mapping File"
+  },
+  {
+    "Extension": ".dsf",
+    "Path": "Visual/3D Image/Dependent/Modeling ProjectFile/DAZ/Asset File"
+  },
+  {
+    "Extension": ".dsi",
+    "Path": "Visual/3D Image/Dependent/Modeling ProjectFile/DAZ/Layered Image Set"
+  },
+  {
+    "Extension": ".dso",
+    "Path": "Visual/3D Image/Dependent/Modeling ProjectFile/DAZ/Object File"
+  },
+  {
+    "Extension": ".dsd",
+    "Path": "Visual/3D Image/Dependent/Modeling ProjectFile/DAZ/Object Morph File"
+  },
+  {
+    "Extension": ".daz",
+    "Path": "Visual/3D Image/Dependent/Modeling ProjectFile/DAZ/Scene"
+  },
+  {
+    "Extension": ".fbx",
+    "Path": "Visual/3D Image/Independent/fbx"
+  },
+  {
+    "Extension": ".obj",
+    "Path": "Visual/3D Image/Independent/obj"
+  },
+  {
+    "Extension": ".mtl",
+    "Path": "Visual/3D Image/Independent/obj-mtl"
+  },
+  {
+    "Extension": ".stl",
+    "Path": "Visual/3D Image/Independent/stl"
+  },
+  {
+    "Extension": ".3ds",
+    "Path": "Visual/3D Image/Independent/3ds"
+  },
+  {
+    "Extension": ".usd",
+    "Path": "Visual/3D Image/Independent/usd"
+  },
+  {
+    "Extension": ".u3d",
+    "Path": "Visual/3D Image/Independent/u3d"
+  },
+  {
+    "Extension": ".ply",
+    "Path": "Visual/3D Image/Independent/ply"
+  },
+  {
+    "Extension": ".ai",
+    "Path": "Visual/Raw Media/Image/Dependent ProjectFile/Illustrator"
+  },
+  {
+    "Extension": ".psd",
+    "Path": "Visual/Raw Media/Image/Dependent ProjectFile/Photoshop"
+  },
+  {
+    "Extension": ".indd",
+    "Path": "Visual/Raw Media/Image/Dependent ProjectFile/InDesign"
+  },
+  {
+    "Extension": ".svg",
+    "Path": "Visual/Raw Media/Image/Independent/Vector/svg"
+  },
+  {
+    "Extension": ".gif",
+    "Path": "Visual/Raw Media/Image/Independent/Raster/gif"
+  },
+  {
+    "Extension": ".jpg",
+    "Path": "Visual/Raw Media/Image/Independent/Raster/jpg"
+  },
+  {
+    "Extension": ".jpeg",
+    "Path": "Visual/Raw Media/Image/Independent/Raster/jpg"
+  },
+  {
+    "Extension": ".heic",
+    "Path": "Visual/Raw Media/Image/Independent/Raster/heic"
+  },
+  {
+    "Extension": ".png",
+    "Path": "Visual/Raw Media/Image/Independent/Raster/png"
+  },
+  {
+    "Extension": ".tiff",
+    "Path": "Visual/Raw Media/Image/Independent/Raster/tiff"
+  },
+  {
+    "Extension": ".tif",
+    "Path": "Visual/Raw Media/Image/Independent/Raster/tiff"
+  },
+  {
+    "Extension": ".bmp",
+    "Path": "Visual/Raw Media/Image/Independent/Raster/bmp"
+  },
+  {
+    "Extension": ".tga",
+    "Path": "Visual/Raw Media/Image/Independent/Raster/tga"
+  },
+  {
+    "Extension": ".exr",
+    "Path": "Visual/Raw Media/Image/Independent/Raster/exr"
+  },
+  {
+    "Extension": ".raw",
+    "Path": "Visual/Raw Media/Image/Independent/Raster/raw"
+  },
+  {
+    "Extension": ".aif",
+    "Path": "Visual/Raw Media/Audio/aif"
+  },
+  {
+    "Extension": ".mp3",
+    "Path": "Visual/Raw Media/Audio/mp3"
+  },
+  {
+    "Extension": ".mpa",
+    "Path": "Visual/Raw Media/Audio/mpa"
+  },
+  {
+    "Extension": ".wav",
+    "Path": "Visual/Raw Media/Audio/wav"
+  },
+  {
+    "Extension": ".wpl",
+    "Path": "Visual/Raw Media/Audio/wpl"
+  },
+  {
+    "Extension": ".ogg",
+    "Path": "Visual/Raw Media/Audio/ogg"
+  },
+  {
+    "Extension": ".avi",
+    "Path": "Visual/Raw Media/Video/avi"
+  },
+  {
+    "Extension": ".mp4",
+    "Path": "Visual/Raw Media/Video/mp4"
+  },
+  {
+    "Extension": ".mkv",
+    "Path": "Visual/Raw Media/Video/mkv"
+  },
+  {
+    "Extension": ".rmvb",
+    "Path": "Visual/Raw Media/Video/rmvb"
+  },
+  {
+    "Extension": ".iso",
+    "Path": "Visual/Raw Media/Disc/iso"
+  },
+  {
+    "Extension": ".vcd",
+    "Path": "Visual/Raw Media/Disc/vcd"
+  },
+  {
+    "Extension": ".key",
+    "Path": "Visual/Presentation/Keynote"
+  },
+  {
+    "Extension": ".pps",
+    "Path": "Visual/Presentation/PowerPoint"
+  },
+  {
+    "Extension": ".ppt",
+    "Path": "Visual/Presentation/PowerPoint"
+  },
+  {
+    "Extension": ".pptx",
+    "Path": "Visual/Presentation/PowerPoint"
+  },
+  {
+    "Extension": ".odp",
+    "Path": "Visual/Presentation/OpenOffice Impress"
+  },
+  {
+    "Extension": ".abc",
+    "Path": "exampleFolder"
+  }
+]

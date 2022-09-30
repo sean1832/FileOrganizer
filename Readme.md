@@ -20,7 +20,7 @@
 4. Under Action, select "Start a Program"
 5. Click "Browse" and navigate to local installed directory. Select "FileOrganizer.exe".
 6. Under "Add arguments (optional)" enter `<path> --<operation>`, e.g. `C:\Users\username\Downloads --pack`
-7. Under "Start in (optional)" enter installed directory
+7. Under "Start in (optional)" enter installed directory, e.g. `E:\Software\installed folder`
 
 ## Example command
 - Pack and clean file in directory `C:\Users\username\Downloads`
@@ -30,7 +30,7 @@
 ## Demo use (command prompt)
 ![demo](pictures/Comand_Demo.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MTkyNjQ4OSwtMTI3MDU5MDEyOSwxMD
-g2NjQwODI1LDE2ODM3NDk3MjcsNTQ2NzU5NjUwLC05OTU4MTQ2
-OTcsMTE4OTQ5NzQ4M119
+eyJoaXN0b3J5IjpbLTIwMjk0MDMxMjUsLTEyNzA1OTAxMjksMT
+A4NjY0MDgyNSwxNjgzNzQ5NzI3LDU0Njc1OTY1MCwtOTk1ODE0
+Njk3LDExODk0OTc0ODNdfQ==
 -->

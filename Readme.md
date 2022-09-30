@@ -26,7 +26,9 @@
 ## Commands
 - Command structure: `FileOranizer.exe <directory> --<operation>`
 - `<directory>` is the target directory to clean
-- `<operation >`
+- `<operation>` is the operation that the program will perform, they are:
+	- `--pack` will 
+	- `--unpack`
 
 
 ## Example command
@@ -37,7 +39,7 @@
 ## Demo use (command prompt)
 ![demo](pictures/Comand_Demo.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzc4ODUxLC0xMjcwNTkwMTI5LDEwOD
-Y2NDA4MjUsMTY4Mzc0OTcyNyw1NDY3NTk2NTAsLTk5NTgxNDY5
-NywxMTg5NDk3NDgzXX0=
+eyJoaXN0b3J5IjpbMTAzNzAxODcwNSwtMTI3MDU5MDEyOSwxMD
+g2NjQwODI1LDE2ODM3NDk3MjcsNTQ2NzU5NjUwLC05OTU4MTQ2
+OTcsMTE4OTQ5NzQ4M119
 -->

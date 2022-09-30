@@ -1,7 +1,5 @@
-# File Organizer
-
-
-> Written with [StackEdit](https://stackedit.io/).
+# File Organiser
+A simple program to organise
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTI2NTIxMl19
+eyJoaXN0b3J5IjpbLTEyMzIxNzUxNzldfQ==
 -->

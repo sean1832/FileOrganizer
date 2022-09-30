@@ -19,12 +19,14 @@
 3. Set desier trigger time
 4. Under Action, select "Start a Program"
 5. Click "Browse" and navigate to local installed directory. Select "FileOrganizer.exe".
-6. Under "Add arguments (optional)" enter `<path> --<operation>`, e.g. `C:\Users\username\Downloads --pack`
+6. Under "Add arguments (optional)" enter `<direcctory> --<operation>`, e.g. `C:\Users\username\Downloads --pack`
 7. Under "Start in (optional)" enter installed directory, e.g. `E:\Software\installed folder`
 8. Finish
 
 ## Commands
-- Command structure: `FileOranizer.exe <path>`
+- Command structure: `FileOranizer.exe <directory> --<operation>`
+- `<directory>` is the target directory to clean
+- `<operation >`
 
 
 ## Example command
@@ -35,7 +37,7 @@
 ## Demo use (command prompt)
 ![demo](pictures/Comand_Demo.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMTA0OTE5MCwtMTI3MDU5MDEyOSwxMD
-g2NjQwODI1LDE2ODM3NDk3MjcsNTQ2NzU5NjUwLC05OTU4MTQ2
-OTcsMTE4OTQ5NzQ4M119
+eyJoaXN0b3J5IjpbLTYzNzc4ODUxLC0xMjcwNTkwMTI5LDEwOD
+Y2NDA4MjUsMTY4Mzc0OTcyNyw1NDY3NTk2NTAsLTk5NTgxNDY5
+NywxMTg5NDk3NDgzXX0=
 -->

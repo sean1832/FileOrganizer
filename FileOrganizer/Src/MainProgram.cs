@@ -9,20 +9,12 @@ namespace FileOrganizer
     {
         static void Main(string[] args)
         {
-            #region Debug & Test Zone
-
-            //UnpackFile(@"E:\test");
-
-            #endregion
-
-            #region main Logic
             string path = args.FirstOrDefault();
             string cmd = null;
             if (args.Length == 2)
             {
                 cmd = args[1];
             }
-
 
             if (path != null)
             {
@@ -49,7 +41,6 @@ namespace FileOrganizer
                 MessageBox.Show("Error: No argument detected!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 Environment.Exit(0);
             }
-            #endregion
         }
     }
 }

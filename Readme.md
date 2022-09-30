@@ -27,8 +27,8 @@
 - Command structure: `FileOranizer.exe <directory> --<operation>`
 - `<directory>` is the target directory to clean
 - `<operation>` is the operation that the program will perform, they are:
-	- `--pack` will move all files into seperate folder base on their 
-	- `--unpack`
+	- `--pack` move all file types into allocated directory.
+	- `--unpack` move all file within the subfolders into root directory.
 
 
 ## Example command
@@ -39,7 +39,7 @@
 ## Demo use (command prompt)
 ![demo](pictures/Comand_Demo.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNDI5MDczMSwtMTI3MDU5MDEyOSwxMD
+eyJoaXN0b3J5IjpbMTY3Nzc5NjY4MCwtMTI3MDU5MDEyOSwxMD
 g2NjQwODI1LDE2ODM3NDk3MjcsNTQ2NzU5NjUwLC05OTU4MTQ2
 OTcsMTE4OTQ5NzQ4M119
 -->

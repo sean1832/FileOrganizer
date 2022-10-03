@@ -4,7 +4,7 @@ A simple console application to organize files by their extensions.
 
 (This is my first repository on github, enjoy!:robot:  :blush: )
 ## How to setup
-1. [**:cd:Download all files for application**](https://github.com/sean1832/Organizer/tree/master/FileOrganizer/deploy).
+1. [**:cd:Download all files for application**](https://github.com/sean1832/FileOrganizer/releases/tag/0.1.0).
 2. **Extract** files into local directory.
 
 ### :computer:Command Prompt 
